@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sowjanya-sathi
+- 👋 Hi, I’m @sowjanya
 - 👀 I’m interested in  Azure development, Python
 - 🌱 I’m currently learning Azure development
 - 💞️ I’m looking to collaborate on Azure
